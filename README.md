@@ -1,5 +1,5 @@
-# Week-1
-Power BI Exploration: Focused on exploring Microsoft Power BI.
-Key tasks include:
-Understanding the Power BI interface and features.
-Importing datasets and performing the ETL process.
+🌱 Sustainable Supply Chain Performance 📊
+
+This project analyzes Sustainable Supply Chain Performance using Power BI to track key metrics like carbon footprint, supplier compliance, and logistics efficiency.
+It includes interactive dashboards for data-driven insights. 
+Tool used: Power BI
